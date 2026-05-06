@@ -1,0 +1,1249 @@
+{
+  "Alabama": {
+    "state": "Alabama",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 4321319.43,
+        "mape": 1.92
+      },
+      "Prophet": {
+        "rmse": 5152443.87,
+        "mape": 2.6
+      },
+      "XGBoost": {
+        "rmse": 2898643.63,
+        "mape": 1.28
+      },
+      "LSTM": {
+        "rmse": 4898689.14,
+        "mape": 2.39
+      }
+    },
+    "training_seconds": 160.7,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Arizona": {
+    "state": "Arizona",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 2.6488167397803924e+76,
+        "mape": 5.3474237419068734e+69
+      },
+      "Prophet": {
+        "rmse": 15649058.13,
+        "mape": 6.76
+      },
+      "XGBoost": {
+        "rmse": 1271135.25,
+        "mape": 0.51
+      },
+      "LSTM": {
+        "rmse": 4485686.15,
+        "mape": 2.01
+      }
+    },
+    "training_seconds": 136.2,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Arkansas": {
+    "state": "Arkansas",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 4.6244292928628456e+57,
+        "mape": 2.2216164541267614e+51
+      },
+      "Prophet": {
+        "rmse": 2385774.18,
+        "mape": 2.19
+      },
+      "XGBoost": {
+        "rmse": 1683451.12,
+        "mape": 1.52
+      },
+      "LSTM": {
+        "rmse": 2717502.98,
+        "mape": 2.46
+      }
+    },
+    "training_seconds": 121.7,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "California": {
+    "state": "California",
+    "best_model": "LSTM",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 7744893.71,
+        "mape": 0.78
+      },
+      "Prophet": {
+        "rmse": 84602947.2,
+        "mape": 10.04
+      },
+      "XGBoost": {
+        "rmse": 20841897.09,
+        "mape": 1.74
+      },
+      "LSTM": {
+        "rmse": 1294672.42,
+        "mape": 0.15
+      }
+    },
+    "training_seconds": 139.0,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Colorado": {
+    "state": "Colorado",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 5.612447673102803e+64,
+        "mape": 1.580064539170463e+58
+      },
+      "Prophet": {
+        "rmse": 6193476.02,
+        "mape": 3.47
+      },
+      "XGBoost": {
+        "rmse": 1393446.27,
+        "mape": 0.77
+      },
+      "LSTM": {
+        "rmse": 2115758.45,
+        "mape": 1.19
+      }
+    },
+    "training_seconds": 135.5,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Connecticut": {
+    "state": "Connecticut",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 9.60449058370298e+58,
+        "mape": 5.67568579138681e+52
+      },
+      "Prophet": {
+        "rmse": 2260308.97,
+        "mape": 2.68
+      },
+      "XGBoost": {
+        "rmse": 513141.68,
+        "mape": 0.51
+      },
+      "LSTM": {
+        "rmse": 640094.45,
+        "mape": 0.72
+      }
+    },
+    "training_seconds": 137.3,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Florida": {
+    "state": "Florida",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": Infinity,
+        "mape": 8.682315412391e+153
+      },
+      "Prophet": {
+        "rmse": 23416466.75,
+        "mape": 3.18
+      },
+      "XGBoost": {
+        "rmse": 12156095.89,
+        "mape": 1.49
+      },
+      "LSTM": {
+        "rmse": 29183430.38,
+        "mape": 3.88
+      }
+    },
+    "training_seconds": 156.9,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Georgia": {
+    "state": "Georgia",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 1.195870631542207e+64,
+        "mape": 1.547490500796474e+57
+      },
+      "Prophet": {
+        "rmse": 9494995.18,
+        "mape": 2.32
+      },
+      "XGBoost": {
+        "rmse": 6061675.61,
+        "mape": 1.3
+      },
+      "LSTM": {
+        "rmse": 13284293.45,
+        "mape": 3.47
+      }
+    },
+    "training_seconds": 136.9,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Illinois": {
+    "state": "Illinois",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 2.4519256871515853e+91,
+        "mape": 3.097247941975934e+84
+      },
+      "Prophet": {
+        "rmse": 10327951.14,
+        "mape": 3.21
+      },
+      "XGBoost": {
+        "rmse": 1098204.27,
+        "mape": 0.32
+      },
+      "LSTM": {
+        "rmse": 2652803.46,
+        "mape": 0.83
+      }
+    },
+    "training_seconds": 144.1,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Indiana": {
+    "state": "Indiana",
+    "best_model": "LSTM",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 1.6183448926229116e+86,
+        "mape": 3.0779200911423445e+79
+      },
+      "Prophet": {
+        "rmse": 8028622.98,
+        "mape": 3.58
+      },
+      "XGBoost": {
+        "rmse": 760935.11,
+        "mape": 0.34
+      },
+      "LSTM": {
+        "rmse": 288308.18,
+        "mape": 0.13
+      }
+    },
+    "training_seconds": 151.8,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Iowa": {
+    "state": "Iowa",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 4.903860583771904e+82,
+        "mape": 1.8155641015900505e+76
+      },
+      "Prophet": {
+        "rmse": 3040202.39,
+        "mape": 2.51
+      },
+      "XGBoost": {
+        "rmse": 729207.3,
+        "mape": 0.59
+      },
+      "LSTM": {
+        "rmse": 1723978.73,
+        "mape": 1.46
+      }
+    },
+    "training_seconds": 144.0,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Kansas": {
+    "state": "Kansas",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 4.046585857538409e+82,
+        "mape": 1.9605233006917205e+76
+      },
+      "Prophet": {
+        "rmse": 2564500.75,
+        "mape": 2.68
+      },
+      "XGBoost": {
+        "rmse": 737652.61,
+        "mape": 0.77
+      },
+      "LSTM": {
+        "rmse": 1430837.81,
+        "mape": 1.57
+      }
+    },
+    "training_seconds": 137.4,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Kentucky": {
+    "state": "Kentucky",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 4.2057211583034236e+70,
+        "mape": 1.1589941912019036e+64
+      },
+      "Prophet": {
+        "rmse": 5826441.39,
+        "mape": 3.24
+      },
+      "XGBoost": {
+        "rmse": 2085413.79,
+        "mape": 1.18
+      },
+      "LSTM": {
+        "rmse": 4380381.24,
+        "mape": 2.55
+      }
+    },
+    "training_seconds": 136.4,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Louisiana": {
+    "state": "Louisiana",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 3.926223366569577e+91,
+        "mape": 8.815319482067376e+84
+      },
+      "Prophet": {
+        "rmse": 29419132.31,
+        "mape": 16.99
+      },
+      "XGBoost": {
+        "rmse": 1302894.98,
+        "mape": 0.7
+      },
+      "LSTM": {
+        "rmse": 2435795.13,
+        "mape": 1.34
+      }
+    },
+    "training_seconds": 155.8,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Maine": {
+    "state": "Maine",
+    "best_model": "LSTM",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 1.2370784707502727e+27,
+        "mape": 2.375614678455912e+21
+      },
+      "Prophet": {
+        "rmse": 3530847.37,
+        "mape": 7.69
+      },
+      "XGBoost": {
+        "rmse": 717015.08,
+        "mape": 1.34
+      },
+      "LSTM": {
+        "rmse": 538451.81,
+        "mape": 1.12
+      }
+    },
+    "training_seconds": 130.5,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Maryland": {
+    "state": "Maryland",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 1.2261031137171788e+78,
+        "mape": 3.3911795769206775e+71
+      },
+      "Prophet": {
+        "rmse": 2368573.09,
+        "mape": 1.46
+      },
+      "XGBoost": {
+        "rmse": 940733.17,
+        "mape": 0.55
+      },
+      "LSTM": {
+        "rmse": 1116212.23,
+        "mape": 0.68
+      }
+    },
+    "training_seconds": 146.5,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Massachusetts": {
+    "state": "Massachusetts",
+    "best_model": "LSTM",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 6.26875129147048e+54,
+        "mape": 1.9021974489829858e+48
+      },
+      "Prophet": {
+        "rmse": 3202293.86,
+        "mape": 1.85
+      },
+      "XGBoost": {
+        "rmse": 295017.52,
+        "mape": 0.16
+      },
+      "LSTM": {
+        "rmse": 179917.82,
+        "mape": 0.1
+      }
+    },
+    "training_seconds": 150.9,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Michigan": {
+    "state": "Michigan",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 1.358088470109096e+82,
+        "mape": 2.002930118571965e+75
+      },
+      "Prophet": {
+        "rmse": 15556710.47,
+        "mape": 5.33
+      },
+      "XGBoost": {
+        "rmse": 1876423.86,
+        "mape": 0.61
+      },
+      "LSTM": {
+        "rmse": 2624572.37,
+        "mape": 0.9
+      }
+    },
+    "training_seconds": 146.7,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Minnesota": {
+    "state": "Minnesota",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 1.0111716869671259e+93,
+        "mape": 2.576166504252208e+86
+      },
+      "Prophet": {
+        "rmse": 4084887.23,
+        "mape": 2.66
+      },
+      "XGBoost": {
+        "rmse": 860981.94,
+        "mape": 0.49
+      },
+      "LSTM": {
+        "rmse": 1411007.87,
+        "mape": 0.89
+      }
+    },
+    "training_seconds": 139.7,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Mississippi": {
+    "state": "Mississippi",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 4.1710801469163394e+94,
+        "mape": 1.3630654949875883e+88
+      },
+      "Prophet": {
+        "rmse": 13230171.94,
+        "mape": 10.9
+      },
+      "XGBoost": {
+        "rmse": 2976256.95,
+        "mape": 2.32
+      },
+      "LSTM": {
+        "rmse": 5399383.37,
+        "mape": 4.34
+      }
+    },
+    "training_seconds": 135.7,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Missouri": {
+    "state": "Missouri",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 5.058221484929736e+90,
+        "mape": 1.0743628132743537e+84
+      },
+      "Prophet": {
+        "rmse": 3988080.33,
+        "mape": 1.94
+      },
+      "XGBoost": {
+        "rmse": 2357319.59,
+        "mape": 1.08
+      },
+      "LSTM": {
+        "rmse": 4008527.74,
+        "mape": 2.05
+      }
+    },
+    "training_seconds": 149.9,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Nebraska": {
+    "state": "Nebraska",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 7.761241279624732e+116,
+        "mape": 4.47400923096916e+110
+      },
+      "Prophet": {
+        "rmse": 4713031.38,
+        "mape": 7.56
+      },
+      "XGBoost": {
+        "rmse": 251827.27,
+        "mape": 0.36
+      },
+      "LSTM": {
+        "rmse": 1458019.16,
+        "mape": 2.33
+      }
+    },
+    "training_seconds": 131.1,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Nevada": {
+    "state": "Nevada",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 8.977274661855461e+74,
+        "mape": 3.995664673196621e+68
+      },
+      "Prophet": {
+        "rmse": 8113221.39,
+        "mape": 7.77
+      },
+      "XGBoost": {
+        "rmse": 423832.06,
+        "mape": 0.39
+      },
+      "LSTM": {
+        "rmse": 1253926.01,
+        "mape": 1.22
+      }
+    },
+    "training_seconds": 143.8,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "New Hampshire": {
+    "state": "New Hampshire",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 4.648800918946457e+43,
+        "mape": 5.316301090585933e+37
+      },
+      "Prophet": {
+        "rmse": 5917014.65,
+        "mape": 11.08
+      },
+      "XGBoost": {
+        "rmse": 432673.92,
+        "mape": 0.75
+      },
+      "LSTM": {
+        "rmse": 598272.75,
+        "mape": 1.06
+      }
+    },
+    "training_seconds": 130.3,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "New Mexico": {
+    "state": "New Mexico",
+    "best_model": "LSTM",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 2.200563749577751e+76,
+        "mape": 1.3626477827139373e+70
+      },
+      "Prophet": {
+        "rmse": 2455209.56,
+        "mape": 3.32
+      },
+      "XGBoost": {
+        "rmse": 376328.35,
+        "mape": 0.52
+      },
+      "LSTM": {
+        "rmse": 310624.82,
+        "mape": 0.43
+      }
+    },
+    "training_seconds": 146.0,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "New York": {
+    "state": "New York",
+    "best_model": "LSTM",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 4.679457691049594e+49,
+        "mape": 6.284346280125519e+42
+      },
+      "Prophet": {
+        "rmse": 15890220.5,
+        "mape": 3.8
+      },
+      "XGBoost": {
+        "rmse": 1036811.52,
+        "mape": 0.24
+      },
+      "LSTM": {
+        "rmse": 29330.19,
+        "mape": 0.01
+      }
+    },
+    "training_seconds": 151.2,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "North Carolina": {
+    "state": "North Carolina",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 5.757567699299962e+73,
+        "mape": 7.614693957494274e+66
+      },
+      "Prophet": {
+        "rmse": 16842852.38,
+        "mape": 4.59
+      },
+      "XGBoost": {
+        "rmse": 6574333.63,
+        "mape": 1.78
+      },
+      "LSTM": {
+        "rmse": 8943535.59,
+        "mape": 2.53
+      }
+    },
+    "training_seconds": 143.9,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Ohio": {
+    "state": "Ohio",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 3.784525687321503e+89,
+        "mape": 4.2213161809610965e+82
+      },
+      "Prophet": {
+        "rmse": 13714302.49,
+        "mape": 3.58
+      },
+      "XGBoost": {
+        "rmse": 2197182.4,
+        "mape": 0.57
+      },
+      "LSTM": {
+        "rmse": 3945211.49,
+        "mape": 1.06
+      }
+    },
+    "training_seconds": 148.3,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Oklahoma": {
+    "state": "Oklahoma",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 7.952935933102088e+53,
+        "mape": 3.0007100695327944e+47
+      },
+      "Prophet": {
+        "rmse": 1346477.59,
+        "mape": 0.8
+      },
+      "XGBoost": {
+        "rmse": 332306.67,
+        "mape": 0.21
+      },
+      "LSTM": {
+        "rmse": 1451811.84,
+        "mape": 0.99
+      }
+    },
+    "training_seconds": 140.6,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Oregon": {
+    "state": "Oregon",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 2.1851482489594437e+54,
+        "mape": 1.0655088026343348e+48
+      },
+      "Prophet": {
+        "rmse": 3757055.6,
+        "mape": 3.22
+      },
+      "XGBoost": {
+        "rmse": 408741.22,
+        "mape": 0.27
+      },
+      "LSTM": {
+        "rmse": 1626358.29,
+        "mape": 1.42
+      }
+    },
+    "training_seconds": 138.8,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Pennsylvania": {
+    "state": "Pennsylvania",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 1.9070332358171472e+83,
+        "mape": 2.2579390033601627e+76
+      },
+      "Prophet": {
+        "rmse": 7127694.35,
+        "mape": 2.01
+      },
+      "XGBoost": {
+        "rmse": 1371836.22,
+        "mape": 0.33
+      },
+      "LSTM": {
+        "rmse": 3026781.19,
+        "mape": 0.83
+      }
+    },
+    "training_seconds": 147.8,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Rhode Island": {
+    "state": "Rhode Island",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 1.003734399422201e+38,
+        "mape": 2.7762006740036625e+32
+      },
+      "Prophet": {
+        "rmse": 1098418.64,
+        "mape": 4.06
+      },
+      "XGBoost": {
+        "rmse": 220676.95,
+        "mape": 0.8
+      },
+      "LSTM": {
+        "rmse": 365314.44,
+        "mape": 1.39
+      }
+    },
+    "training_seconds": 139.4,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "South Carolina": {
+    "state": "South Carolina",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 8.031834478585068e+72,
+        "mape": 1.944397484494987e+66
+      },
+      "Prophet": {
+        "rmse": 6199912.6,
+        "mape": 3.04
+      },
+      "XGBoost": {
+        "rmse": 3402242.87,
+        "mape": 1.58
+      },
+      "LSTM": {
+        "rmse": 7376064.59,
+        "mape": 3.82
+      }
+    },
+    "training_seconds": 148.0,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "South Dakota": {
+    "state": "South Dakota",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 2.112250152147194e+51,
+        "mape": 4.0755813779561454e+45
+      },
+      "Prophet": {
+        "rmse": 3247965.8,
+        "mape": 11.59
+      },
+      "XGBoost": {
+        "rmse": 49256.42,
+        "mape": 0.16
+      },
+      "LSTM": {
+        "rmse": 112053.99,
+        "mape": 0.38
+      }
+    },
+    "training_seconds": 128.9,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Tennessee": {
+    "state": "Tennessee",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 3.8933899869447294e+69,
+        "mape": 7.163063849286502e+62
+      },
+      "Prophet": {
+        "rmse": 7820768.7,
+        "mape": 2.82
+      },
+      "XGBoost": {
+        "rmse": 5133989.7,
+        "mape": 1.85
+      },
+      "LSTM": {
+        "rmse": 8973334.1,
+        "mape": 3.44
+      }
+    },
+    "training_seconds": 134.4,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Texas": {
+    "state": "Texas",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 5.666679493091472e+58,
+        "mape": 3.386307541822719e+51
+      },
+      "Prophet": {
+        "rmse": 13036434.78,
+        "mape": 1.32
+      },
+      "XGBoost": {
+        "rmse": 8691781.96,
+        "mape": 0.91
+      },
+      "LSTM": {
+        "rmse": 13845620.75,
+        "mape": 1.54
+      }
+    },
+    "training_seconds": 153.0,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Utah": {
+    "state": "Utah",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 3.200484226291361e+54,
+        "mape": 2.0906867359438876e+48
+      },
+      "Prophet": {
+        "rmse": 2799943.6,
+        "mape": 3.21
+      },
+      "XGBoost": {
+        "rmse": 315495.2,
+        "mape": 0.3
+      },
+      "LSTM": {
+        "rmse": 1089354.36,
+        "mape": 1.29
+      }
+    },
+    "training_seconds": 144.1,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Vermont": {
+    "state": "Vermont",
+    "best_model": "LSTM",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 1.8009058090123127e+31,
+        "mape": 7.704929738956275e+25
+      },
+      "Prophet": {
+        "rmse": 1619871.99,
+        "mape": 9.15
+      },
+      "XGBoost": {
+        "rmse": 150016.38,
+        "mape": 0.66
+      },
+      "LSTM": {
+        "rmse": 55553.96,
+        "mape": 0.29
+      }
+    },
+    "training_seconds": 132.5,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Virginia": {
+    "state": "Virginia",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 5.233767451316693e+80,
+        "mape": 7.981985842716807e+73
+      },
+      "Prophet": {
+        "rmse": 12004291.61,
+        "mape": 3.94
+      },
+      "XGBoost": {
+        "rmse": 3891692.71,
+        "mape": 1.26
+      },
+      "LSTM": {
+        "rmse": 7531862.78,
+        "mape": 2.61
+      }
+    },
+    "training_seconds": 149.0,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Washington": {
+    "state": "Washington",
+    "best_model": "XGBoost",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 1.9763251276555183e+53,
+        "mape": 6.14735252773359e+46
+      },
+      "Prophet": {
+        "rmse": 6072371.42,
+        "mape": 3.07
+      },
+      "XGBoost": {
+        "rmse": 260137.41,
+        "mape": 0.14
+      },
+      "LSTM": {
+        "rmse": 689774.26,
+        "mape": 0.37
+      }
+    },
+    "training_seconds": 149.7,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "West Virginia": {
+    "state": "West Virginia",
+    "best_model": "LSTM",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 4.7076410379813585e+85,
+        "mape": 2.6134756322911024e+79
+      },
+      "Prophet": {
+        "rmse": 3858494.53,
+        "mape": 5.05
+      },
+      "XGBoost": {
+        "rmse": 227279.88,
+        "mape": 0.27
+      },
+      "LSTM": {
+        "rmse": 221928.96,
+        "mape": 0.3
+      }
+    },
+    "training_seconds": 139.5,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Wisconsin": {
+    "state": "Wisconsin",
+    "best_model": "LSTM",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 7.416882684622179e+73,
+        "mape": 2.1734389059403745e+67
+      },
+      "Prophet": {
+        "rmse": 6107358.1,
+        "mape": 3.91
+      },
+      "XGBoost": {
+        "rmse": 1218668.07,
+        "mape": 0.75
+      },
+      "LSTM": {
+        "rmse": 185157.72,
+        "mape": 0.12
+      }
+    },
+    "training_seconds": 142.6,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  },
+  "Wyoming": {
+    "state": "Wyoming",
+    "best_model": "LSTM",
+    "metrics": {
+      "SARIMA": {
+        "rmse": 1.1370237465776412e+44,
+        "mape": 3.306587094629185e+38
+      },
+      "Prophet": {
+        "rmse": 6813560.78,
+        "mape": 33.19
+      },
+      "XGBoost": {
+        "rmse": 106780.91,
+        "mape": 0.28
+      },
+      "LSTM": {
+        "rmse": 80572.5,
+        "mape": 0.37
+      }
+    },
+    "training_seconds": 135.6,
+    "train_observations": 240,
+    "val_observations": 16,
+    "train_start": "2019-01-12",
+    "train_end": "2023-08-12",
+    "val_start": "2023-08-19",
+    "val_end": "2023-12-02"
+  }
+}
